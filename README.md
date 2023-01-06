@@ -33,7 +33,7 @@ Output: 4
  
 **Constraints:**
 
-1 <= nums.length <= 10^4
+1 <= nums.length <= 10<sup>4</sup>
 
 -10^4 <= nums[i] <= 10^4
 
