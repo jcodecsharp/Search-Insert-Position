@@ -30,7 +30,7 @@ Input: nums = [1,3,5,6], target = 7
 Output: 4
  
  
- s
+ 
 **Constraints:**
 
 1 <= nums.length <= 10^4
