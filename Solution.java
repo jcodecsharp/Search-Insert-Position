@@ -1,5 +1,7 @@
 package searchinsert.solution;
 
+// The SearchInsert Algorithm
+
 public class Solution {
     public int searchInsert(int[] nums, int target) {
         if (target < nums[0]) {
