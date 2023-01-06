@@ -1,4 +1,4 @@
-# Search-Insert-Position
+### Search-Insert-Position
 
 This problem is from leetcode with the following description: 
 Given a sorted array of distinct integers and a target value, return the index if the target is found. 
